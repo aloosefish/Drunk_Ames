@@ -1,1 +1,1 @@
-This is a DataCamp project exploring a breath alcohol test dataset from Ames, Iowa.
+This is a DataCamp project exploring a breath alcohol test dataset from Ames, Iowa. View the Jupyter notebook [here](https://nbviewer.jupyter.org/github/aloosefish/Drunk_Ames/blob/master/notebook.ipynb).
